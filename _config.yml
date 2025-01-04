@@ -1,7 +1,7 @@
-title: Mathieu Marcoux -- U Montréal
-# author:
+title: Mathieu Marcoux - Université de Montréal
+author:
   # name: Mathieu Marcoux
-  # email: mathieu.marcoux@umontreal.ca
+  email: mathieu.marcoux@umontreal.ca
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
