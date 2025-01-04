@@ -1,4 +1,3 @@
-# Mathieu Marcoux
 
 I am an assistant professor of economics at Université de Montréal. My CV is [here](./cv.pdf).
 
