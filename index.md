@@ -1,13 +1,10 @@
 
 I am an assistant professor of economics at Université de Montréal. My CV is [here](./cv.pdf).
 
-
-## Research
-
 My research interests are in econometrics, applied econometrics and industrial organization.
 
 
-### Published and accepted papers
+## Published and accepted papers
 
 * [**Imposing Equilibrium Restrictions in the Estimation of Dynamic Discrete Games**](https://doi.org/10.3982/QE1735) (joint with Victor Aguirregabiria)\
 *Quantitative Economics*, 2021, 12(4), 1223-1271
@@ -25,7 +22,7 @@ My research interests are in econometrics, applied econometrics and industrial o
 Accepted *RAND Journal of Economics*
 
 
-### Selected work in progress
+## Selected work in progress
 
 * Estimating Marginal Costs from Discrete Prices and Product Characteristics: An Application to Mobile Plans (joint with Colin Jaurès Ndonfack Zango)
 
