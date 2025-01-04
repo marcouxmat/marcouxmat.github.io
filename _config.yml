@@ -20,9 +20,9 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-plugins:
+# plugins:
 #   - jekyll-feed
-  - jekyll-seo-tag
+  # - jekyll-seo-tag
 
 # Theme-specific settings
 
@@ -57,9 +57,9 @@ minima:
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-   - { platform: github,         user_url: "https://github.com/marcouxmat" }
+   # - { platform: github,         user_url: "https://github.com/marcouxmat" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
-   - { platform: google_scholar, user_url: "https://scholar.google.ca/citations?user=n0-VaIYAAAAJ" }
+   # - { platform: google_scholar, user_url: "https://scholar.google.ca/citations?user=n0-VaIYAAAAJ" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
