@@ -1,0 +1,12 @@
+title: Mathieu Marcoux -- Université de Montréal
+author:
+  name: Mathieu Marcoux
+  email: mathieu.marcoux@umontreal.ca
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: auto
+  
+    - { platform: github,         user_url: "https://github.com/marcouxmat" }
+    - { platform: google_scholar, user_url: "https://scholar.google.ca/citations?user=n0-VaIYAAAAJ&hl=en" }
