@@ -1,5 +1,5 @@
 
-I am an assistant professor of economics at Université de Montréal. My CV is [here](./cv.pdf).
+I am an associate professor of economics at Université de Montréal. My [CV is here](./cv.pdf).
 
 My research interests are in econometrics, applied econometrics and industrial organization.
 
