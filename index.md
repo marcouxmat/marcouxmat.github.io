@@ -18,8 +18,8 @@ My research interests are in econometrics, applied econometrics and industrial o
 * [**Sharp Test for Equilibrium Uniqueness in Discrete Games with Private Information and Common Knowledge Unobserved Heterogeneity**](https://doi.org/10.1017/S0266466623000063)\
 *Econometric Theory*, 2024, 40(6), 1253-1310
 
-* [**Estimating Complementarity with Large Choice Sets: An Application to Mergers**](https://dx.doi.org/10.2139/ssrn.3802097) (joint with Daniel Ershov, Jean-William Laliberté and Scott Orr)\
-Accepted *RAND Journal of Economics*
+* [**Estimating Complementarity with Large Choice Sets: An Application to Mergers**](https://doi.org/10.1111/1756-2171.70024) (joint with Daniel Ershov, Jean-William Laliberté and Scott Orr)\
+*RAND Journal of Economics*, 2025, 56(4), 689-707
 
 
 ## Selected work in progress
